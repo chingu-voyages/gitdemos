@@ -5,7 +5,6 @@ This is a very very VERY awesome readme even if it doesn't follow Eric's guideli
 
 this is just some new documentation
 
-## Hi Ioana!
+## Renee
 
-Can I create a merge conflict?
-I did Woo woo!!!!
+Hey! How's Mexico? Warmer than up here I bet!
