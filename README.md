@@ -3,12 +3,5 @@ Used as a playground for git discussions
 
 This is a very very VERY awesome readme even if it doesn't follow Eric's guidelines
 
-
-# Elastic Beanstalk
-
-Why is this simpler than EC2????
-
-Hey! How's Mexico? Warmer than up here I bet!
-
-Wow....The V31 Bears 02 team are awesome. Great AWS detective work last night.
-
+The reason for this repo is to demonstrate the concepts for using git & GitHub
+in a team on a Voyage project.
