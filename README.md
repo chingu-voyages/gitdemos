@@ -3,12 +3,12 @@ Used as a playground for git discussions
 
 This is a very very VERY awesome readme even if it doesn't follow Eric's guidelines
 
+The reason for this repo is to demonstrate the concepts for using git & GitHub
+in a team on a Voyage project.
 
-# Elastic Beanstalk
+## Todo list
 
-Why is this simpler than EC2????
+- Demonstrate how to resolve a merge conflict
+## How to create a merge conflict
 
-Hey! How's Mexico? Warmer than up here I bet!
-
-Wow....The V31 Bears 02 team are awesome. Great AWS detective work last night.
-
+Changing files directly in Github is one way!
