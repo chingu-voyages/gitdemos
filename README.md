@@ -9,3 +9,6 @@ in a team on a Voyage project.
 ## Todo list
 
 - Demonstrate how to resolve a merge conflict
+## How to create a merge conflict
+
+Changing files directly in Github is one way!
